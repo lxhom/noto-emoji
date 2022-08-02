@@ -1,5 +1,5 @@
 ![Noto](images/noto.png)
-# Noto Emoji
+# Noto Emoji <img alt="Turtle emoji" src="png/128/emoji_u1f422.png" width="35px">
 Color and Black-and-White Noto emoji fonts, and tools for working with them.
 
 **[Download Emoji Font](https://github.com/googlefonts/noto-emoji/raw/main/fonts/NotoColorEmoji.ttf)**
